@@ -1,0 +1,1 @@
+/usr/bin/clang++  -fsanitize=address -fno-omit-frame-pointer -g -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -mmacosx-version-min=15.0 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -fsanitize=address -fno-omit-frame-pointer -g CMakeFiles/Task_0.dir/Task_0.cpp.o -o Task_0

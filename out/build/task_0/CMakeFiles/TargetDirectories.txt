@@ -1,0 +1,3 @@
+/Users/artembelcikova/Documents/453501/ОАиП/LR_7/Task_0/out/build/task_0/CMakeFiles/Task_0.dir
+/Users/artembelcikova/Documents/453501/ОАиП/LR_7/Task_0/out/build/task_0/CMakeFiles/edit_cache.dir
+/Users/artembelcikova/Documents/453501/ОАиП/LR_7/Task_0/out/build/task_0/CMakeFiles/rebuild_cache.dir
