@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <cmath>
-#include <algorithm>
+
 
 void IntoReverseCode (std::string& str);
 double Calculations (std::string str);
@@ -25,12 +25,8 @@ void Kratnost149(std::string& number , int length);
 int FindPoison (int* barrels);
 
 int main () {
-  std::cout << "введите номер задания, которое хотите запустить: " << '\n';
-  std::cout << "Task1" << '\n';
-  std::cout << "Task2" << '\n';
-  std::cout << "Task3" << '\n';
-  std::cout << "Task4" << '\n';
-  std::cout << "Task5" << '\n';
+  std::cout << "введите номер задания, которое хотите запустить(1-5): " << '\n';
+
   int Task = 0;
   while (!(std::cin >> Task) || (std::cin.peek() != '\n') || Task < 1 || Task > 5) {
     std::cin.clear();
